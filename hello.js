@@ -7,3 +7,5 @@ var y = 2;
 var z = x + y;
 
 console.log(z);
+
+console.log("Greetings!");
